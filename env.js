@@ -5,8 +5,8 @@
 
 # reference these in your code with process.env.SECRET
 
-PREFIX=-
-BOT_TOKEN=NzI2NjU5OTM4NjkyMjM1MzQ0.XwNmfA.aKWQisLEzZiKpZkXyI5SSwIU95s
+PREFIX=$
+BOT_TOKEN= NzY5MjYwNzY5NDMwNzMyODUx.X5Mb6w.EyKD6-yZsuPD85MdYtZFK9w_lWE
 YTAPI_KEY=AIzaSyAv9bQOZON0kF-OKmrKMQE40ulHfiPVD7s
 PROJECT_DOMAIN=mufobot
 
